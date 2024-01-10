@@ -364,6 +364,11 @@
     "p": "/colrm",
     "d": "删除文件中的指定列"
   },
+  "column": {
+    "n": "column",
+    "p": "/column",
+    "d": "按列格式化输出文件"
+  },
   "comm": {
     "n": "comm",
     "p": "/comm",
